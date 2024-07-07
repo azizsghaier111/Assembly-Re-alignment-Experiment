@@ -44,10 +44,7 @@ This project aims to measure the effectiveness of a linear sweep disassembler in
 
 4. Check the `forensics.pdf` file for a detailed report of the experiment.
 
-## Results
-The generated plots provide insights into the distribution of valid instructions before encountering an invalid instruction. Summary statistics are printed to the console.
 
-## References
 - Capstone disassembly framework: [http://www.capstone-engine.org/](http://www.capstone-engine.org/)
 - GitHub repository for executables: [https://github.com/bormaa/Benign-NET](https://github.com/bormaa/Benign-NET)
 
